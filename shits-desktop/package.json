@@ -1,0 +1,22 @@
+{
+  "name": "shits-desktop",
+  "version": "1.0.0",
+  "description": "Safety Management System as an Electron App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanrobertwright/js-projects.git"
+  },
+  "keywords": [
+    "safety"
+  ],
+  "author": "Sean Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanrobertwright/js-projects/issues"
+  },
+  "homepage": "https://github.com/seanrobertwright/js-projects#readme"
+}
