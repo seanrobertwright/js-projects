@@ -2,5 +2,6 @@
     "cSpell.ignoreWords": [
         "downlevel",
         "esnext"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
