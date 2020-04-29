@@ -3,5 +3,6 @@
         "downlevel",
         "esnext"
     ],
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "jshint.options": {"esversion": 8},
 }
