@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 node_modules
 runtime
 libs/openui5-runtime
+=======
+node_modules
+runtime
+libs/openui5-runtime
+>>>>>>> 4989852811ee501e0149717214670d43c24d1754
